@@ -1,0 +1,61 @@
+.encabezado{
+    background-image: url(imagenes_cv/matemática.jpg);
+    background-size: cover;
+    opacity: 0.8;
+    padding: 5%;
+    text-align: center;
+    
+}
+
+.h2{
+    font: Verdana, Geneva, Sans-serif;
+    font-size: 40px;
+    background: -webkit-linear-gradient(top, #0CF, white);
+	border-radius: 10px;
+	padding: 5px;
+	color: black;
+    box-shadow: #00F 5px 5px 10px;
+    display: inline-block;
+    
+}
+
+.cuerpo {
+    padding-top: 2%;  
+    border: 2px solid rgb(66, 36, 236);
+    background-color: rgba(140, 140, 143, 0.979);
+    padding-bottom: 1%;
+}
+
+.justificado{
+    text-align: justify;
+}
+
+#foto_profesora{
+    padding-left: 20%;
+    padding-top: 10%;
+}
+    
+.fuente_pie{
+    color: rgb(0, 140, 255);
+    font-size: 12px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 0%;
+}
+
+.icono{
+    color: aliceblue;
+    background: rgb(0, 140, 255);
+    padding: 10px;
+    border-radius: 50px;
+}
+
+.footer{
+    height: 20%;
+    background-color: rgb(26, 2, 48);
+    padding: 15px;
+}
+.pie{
+    padding: 2px;
+}
+
+
